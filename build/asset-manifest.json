@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/passwordImprovement/static/css/main.d5289b2f.css",
-    "main.js": "/passwordImprovement/static/js/main.b03d25ef.js",
-    "static/js/453.55a3b8ea.chunk.js": "/passwordImprovement/static/js/453.55a3b8ea.chunk.js",
-    "index.html": "/passwordImprovement/index.html",
-    "main.d5289b2f.css.map": "/passwordImprovement/static/css/main.d5289b2f.css.map",
-    "main.b03d25ef.js.map": "/passwordImprovement/static/js/main.b03d25ef.js.map",
-    "453.55a3b8ea.chunk.js.map": "/passwordImprovement/static/js/453.55a3b8ea.chunk.js.map"
+    "main.css": "/ImprovePassword/static/css/main.d5289b2f.css",
+    "main.js": "/ImprovePassword/static/js/main.2c6f4ee7.js",
+    "static/js/453.55a3b8ea.chunk.js": "/ImprovePassword/static/js/453.55a3b8ea.chunk.js",
+    "index.html": "/ImprovePassword/index.html",
+    "main.d5289b2f.css.map": "/ImprovePassword/static/css/main.d5289b2f.css.map",
+    "main.2c6f4ee7.js.map": "/ImprovePassword/static/js/main.2c6f4ee7.js.map",
+    "453.55a3b8ea.chunk.js.map": "/ImprovePassword/static/js/453.55a3b8ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5289b2f.css",
-    "static/js/main.b03d25ef.js"
+    "static/js/main.2c6f4ee7.js"
   ]
 }
